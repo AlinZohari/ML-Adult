@@ -59,18 +59,17 @@ final_clf.fit(X_train, y_train)
 val_score = final_clf.score(X_val, y_val)
 
 
-'''
 
-
-x_train = data_train[feature_names]
+# Test the tree using the test set
+x_train = data_train_val[feature_names]
 x_test = data_test[feature_names]
 
 # Set y_train and y_test to contain the target variable of the DataFrame
-y_train = data_train['income']
+y_train = data_train_val['income']
 y_test = data_test['income']
 
 # Initialize a decision tree classifier
-clf = DecisionTreeClassifier()
+clf = DecisionTreeClassifier(max_depth=best_max_depth)
 
 # Train the classifier on the training data
 clf.fit(x_train, y_train)
@@ -94,8 +93,6 @@ graph.format = "png"
 graph.render("decision_tree", view=True)
 # dot: graph is too large for cairo-renderer bitmaps. Scaling by 0.194084 to fit
 
-
-'''
 
 
 
