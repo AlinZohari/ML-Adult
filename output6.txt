@@ -1,0 +1,20 @@
+Best hyperparameters:  {'class_weight': None, 'criterion': 'gini', 'max_depth': 9, 'max_features': 8, 'min_samples_leaf': 9, 'min_samples_split': 8, 'splitter': 'best'}
+Best score:  0.9042196046938257
+Best hyperparameters:  {'class_weight': None, 'criterion': 'gini', 'max_depth': 9, 'max_features': 8, 'min_samples_leaf': 10, 'min_samples_split': 9, 'splitter': 'best'}
+Best score:  0.9046673402911278
+Best hyperparameters:  {'class_weight': None, 'criterion': 'gini', 'max_depth': 9, 'max_features': 8, 'min_samples_leaf': 9, 'min_samples_split': 6, 'splitter': 'best'}
+Best score:  0.9049676922110279
+Best hyperparameters:  {'class_weight': None, 'criterion': 'gini', 'max_depth': 9, 'max_features': 8, 'min_samples_leaf': 10, 'min_samples_split': 5, 'splitter': 'best'}
+Best score:  0.9045800591908494
+Best hyperparameters:  {'class_weight': None, 'criterion': 'gini', 'max_depth': 9, 'max_features': 8, 'min_samples_leaf': 8, 'min_samples_split': 6, 'splitter': 'best'}
+Best score:  0.9042498109742552
+Best hyperparameters:  {'class_weight': None, 'criterion': 'gini', 'max_depth': 9, 'max_features': 8, 'min_samples_leaf': 10, 'min_samples_split': 8, 'splitter': 'best'}
+Best score:  0.9036321600439752
+Best hyperparameters:  {'class_weight': None, 'criterion': 'gini', 'max_depth': 9, 'max_features': 8, 'min_samples_leaf': 10, 'min_samples_split': 5, 'splitter': 'best'}
+Best score:  0.9042811406010813
+Best hyperparameters:  {'class_weight': None, 'criterion': 'gini', 'max_depth': 9, 'max_features': 8, 'min_samples_leaf': 10, 'min_samples_split': 5, 'splitter': 'best'}
+Best score:  0.9045426143109732
+Best hyperparameters:  {'class_weight': None, 'criterion': 'gini', 'max_depth': 9, 'max_features': 8, 'min_samples_leaf': 10, 'min_samples_split': 4, 'splitter': 'best'}
+Best score:  0.9045592250277418
+Best hyperparameters:  {'class_weight': None, 'criterion': 'gini', 'max_depth': 9, 'max_features': 8, 'min_samples_leaf': 10, 'min_samples_split': 8, 'splitter': 'best'}
+Best score:  0.9037348391038151
