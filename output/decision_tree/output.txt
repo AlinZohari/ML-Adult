@@ -1,0 +1,22 @@
+Best hyperparameters:  {'class_weight': None, 'criterion': 'gini', 'max_depth': 8, 'max_features': 8, 'min_samples_leaf': 8, 'min_samples_split': 2, 'splitter': 'best'}
+Best score:  0.9018088535869502
+Best hyperparameters:  {'class_weight': None, 'criterion': 'gini', 'max_depth': 8, 'max_features': 8, 'min_samples_leaf': 8, 'min_samples_split': 2, 'splitter': 'best'}
+Best score:  0.9023159967690738
+Best hyperparameters:  {'class_weight': None, 'criterion': 'gini', 'max_depth': 8, 'max_features': 8, 'min_samples_leaf': 10, 'min_samples_split': 15, 'splitter': 'best'}
+Best score:  0.9020759235497507
+Best hyperparameters:  {'class_weight': None, 'criterion': 'gini', 'max_depth': 10, 'max_features': 6, 'min_samples_leaf': 10, 'min_samples_split': 2, 'splitter': 'best'}
+Best score:  0.9018326918331608
+Best hyperparameters:  {'class_weight': None, 'criterion': 'gini', 'max_depth': 8, 'max_features': 8, 'min_samples_leaf': 8, 'min_samples_split': 15, 'splitter': 'best'}
+Best score:  0.9026765383844827
+Best hyperparameters:  {'class_weight': None, 'criterion': 'gini', 'max_depth': 8, 'max_features': 6, 'min_samples_leaf': 10, 'min_samples_split': 15, 'splitter': 'best'}
+Best score:  0.90245374058493
+Best hyperparameters:  {'class_weight': None, 'criterion': 'entropy', 'max_depth': 10, 'max_features': 8, 'min_samples_leaf': 10, 'min_samples_split': 5, 'splitter': 'best'}
+Best score:  0.9030600977787238
+Best hyperparameters:  {'class_weight': None, 'criterion': 'gini', 'max_depth': 8, 'max_features': 8, 'min_samples_leaf': 8, 'min_samples_split': 15, 'splitter': 'best'}
+Best score:  0.9015087997913884
+Best hyperparameters:  {'class_weight': None, 'criterion': 'gini', 'max_depth': 8, 'max_features': 8, 'min_samples_leaf': 8, 'min_samples_split': 2, 'splitter': 'best'}
+Best score:  0.9022699344914443
+Best hyperparameters:  {'class_weight': None, 'criterion': 'entropy', 'max_depth': 8, 'max_features': 8, 'min_samples_leaf': 8, 'min_samples_split': 2, 'splitter': 'best'}
+Best score:  0.9028009257856118
+Best hyperparameters:  {'class_weight': None, 'criterion': 'gini', 'max_depth': 10, 'max_features': 8, 'min_samples_leaf': 8, 'min_samples_split': 5, 'splitter': 'best'}
+Best score:  0.9029742293622496
