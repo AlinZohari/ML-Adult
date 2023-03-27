@@ -1,0 +1,40 @@
+Best hyperparameters:  {'class_weight': None, 'criterion': 'gini', 'max_depth': 9, 'max_features': 8, 'min_samples_leaf': 8, 'min_samples_split': 5, 'splitter': 'best'}
+Best score:  0.9050972547937919
+Best hyperparameters:  {'class_weight': None, 'criterion': 'gini', 'max_depth': 9, 'max_features': 8, 'min_samples_leaf': 10, 'min_samples_split': 10, 'splitter': 'best'}
+Best score:  0.9040036813454588
+Best hyperparameters:  {'class_weight': None, 'criterion': 'gini', 'max_depth': 9, 'max_features': 8, 'min_samples_leaf': 9, 'min_samples_split': 9, 'splitter': 'best'}
+Best score:  0.9043603160414188
+Best hyperparameters:  {'class_weight': None, 'criterion': 'gini', 'max_depth': 9, 'max_features': 8, 'min_samples_leaf': 11, 'min_samples_split': 4, 'splitter': 'best'}
+Best score:  0.9037581529272398
+Best hyperparameters:  {'class_weight': None, 'criterion': 'gini', 'max_depth': 9, 'max_features': 8, 'min_samples_leaf': 9, 'min_samples_split': 5, 'splitter': 'best'}
+Best score:  0.9041530376798855
+Best hyperparameters:  {'class_weight': None, 'criterion': 'gini', 'max_depth': 9, 'max_features': 8, 'min_samples_leaf': 9, 'min_samples_split': 3, 'splitter': 'best'}
+Best score:  0.9048167342427046
+Best hyperparameters:  {'class_weight': None, 'criterion': 'gini', 'max_depth': 9, 'max_features': 8, 'min_samples_leaf': 10, 'min_samples_split': 6, 'splitter': 'best'}
+Best score:  0.9043858325884772
+Best hyperparameters:  {'class_weight': None, 'criterion': 'gini', 'max_depth': 9, 'max_features': 8, 'min_samples_leaf': 10, 'min_samples_split': 7, 'splitter': 'best'}
+Best score:  0.9044117874253776
+Best hyperparameters:  {'class_weight': None, 'criterion': 'gini', 'max_depth': 9, 'max_features': 8, 'min_samples_leaf': 11, 'min_samples_split': 5, 'splitter': 'best'}
+Best score:  0.9043367763669071
+Best hyperparameters:  {'class_weight': None, 'criterion': 'gini', 'max_depth': 9, 'max_features': 8, 'min_samples_leaf': 11, 'min_samples_split': 9, 'splitter': 'best'}
+Best score:  0.9044624468097021
+Best hyperparameters:  {'class_weight': None, 'criterion': 'gini', 'max_depth': 9, 'max_features': 8, 'min_samples_leaf': 7, 'min_samples_split': 9, 'splitter': 'best'}
+Best score:  0.9038662465867555
+Best hyperparameters:  {'class_weight': None, 'criterion': 'gini', 'max_depth': 9, 'max_features': 8, 'min_samples_leaf': 10, 'min_samples_split': 5, 'splitter': 'best'}
+Best score:  0.9039982569170919
+Best hyperparameters:  {'class_weight': None, 'criterion': 'gini', 'max_depth': 9, 'max_features': 8, 'min_samples_leaf': 11, 'min_samples_split': 9, 'splitter': 'best'}
+Best score:  0.9038349548085576
+Best hyperparameters:  {'class_weight': None, 'criterion': 'gini', 'max_depth': 9, 'max_features': 8, 'min_samples_leaf': 7, 'min_samples_split': 4, 'splitter': 'best'}
+Best score:  0.9048735832550354
+Best hyperparameters:  {'class_weight': None, 'criterion': 'gini', 'max_depth': 9, 'max_features': 8, 'min_samples_leaf': 10, 'min_samples_split': 4, 'splitter': 'best'}
+Best score:  0.9040020267487213
+Best hyperparameters:  {'class_weight': None, 'criterion': 'gini', 'max_depth': 9, 'max_features': 8, 'min_samples_leaf': 11, 'min_samples_split': 7, 'splitter': 'best'}
+Best score:  0.9042901499984539
+Best hyperparameters:  {'class_weight': None, 'criterion': 'gini', 'max_depth': 9, 'max_features': 8, 'min_samples_leaf': 11, 'min_samples_split': 5, 'splitter': 'best'}
+Best score:  0.9040687111546895
+Best hyperparameters:  {'class_weight': None, 'criterion': 'gini', 'max_depth': 9, 'max_features': 8, 'min_samples_leaf': 10, 'min_samples_split': 6, 'splitter': 'best'}
+Best score:  0.9042322744755561
+Best hyperparameters:  {'class_weight': None, 'criterion': 'gini', 'max_depth': 9, 'max_features': 8, 'min_samples_leaf': 11, 'min_samples_split': 6, 'splitter': 'best'}
+Best score:  0.9044075596834027
+Best hyperparameters:  {'class_weight': None, 'criterion': 'gini', 'max_depth': 9, 'max_features': 8, 'min_samples_leaf': 10, 'min_samples_split': 4, 'splitter': 'best'}
+Best score:  0.9038961956586327
