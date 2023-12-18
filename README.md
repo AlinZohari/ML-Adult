@@ -2,6 +2,7 @@
 
 A collaborative binary classification of supervised machine learning algorithm to an [Adult Dataset](https://archive.ics.uci.edu/dataset/2/adult) from UCI Machine Learning Repository predicting whether an adult earns over $50,000 per year.
 
+Table of Content
 1. [Abstract](https://github.com/AlinZohari/ML-Adult/tree/main?tab=readme-ov-file#abstract)
 2. [File Structure in the Repository](https://github.com/AlinZohari/ML-Adult/tree/main?tab=readme-ov-file#file-structure-in-this-repository)
 3. [Result](https://github.com/AlinZohari/ML-Adult/tree/main?tab=readme-ov-file#results)
