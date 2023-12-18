@@ -105,19 +105,23 @@ non-linear relationships, they may not be as effective in modelling complex inte
 Decision trees make splits based on one feature at a time, which can lead to underfitting or overfitting in some
 cases. Since there are probably complex interactions between multiple features in the Adult Dataset, decision
 trees may not be able to capture them effectively.
+
 **Instance-based learning** takes the longest to run, as it is computationally expensive due to the requirement of
 calculating the distance between test data and training data during the prediction phase. To reduce the computation
 time, one can try using approximate nearest neighbour search techniques such as locally sensitive hashing (LSH)
 or tree structures. This method will enable quicker retrieval of the nearest neighbours, improving the efficiency
 of the prediction phase.
+
 **Bayesian learning** Although the scores are slightly lower than all other algorithms, the running time is significant
 short. This is due to the simplicity of calculation required from Naives Bayes classifiers. This is the advantage of
 the applied statistical theory in Bayes learning but it’s also the limitation. Since the assumption of independence
 between features affects the performance of the model. More complex Bayesian models such as Bayesian
 networks can be tried to capture the dependencies between features.
+
 The **neural network** performed well in terms of accuracy, precision and F1 scores, but the AUC-ROC was
 relatively low. This may be because the models are still slightly overfitted to the training data. The search for the
 best combination of hyperparameters to improve the model can continue.
+
 **Model Ensemble** performed best on various metrics, suggesting that performance can be effectively improved
 by combining multiple models. It is probably because it considers predictions from all base models, thus take
 advantages of all models. However, the result is not very convincing, as it is only better a bit than the second best
