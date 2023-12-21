@@ -1,5 +1,6 @@
 # Supervised Machine Learning
 
+**Predictive Modeling for Income Classification: A Comparative Analysis of Supervised Learning Algorithms**<br>
 A collaborative binary classification of supervised machine learning algorithm to an [Adult Dataset](https://archive.ics.uci.edu/dataset/2/adult) from UCI Machine Learning Repository predicting whether an adult earns over $50,000 per year.
 
 **Table of Content**
